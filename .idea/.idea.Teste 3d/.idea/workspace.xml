@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97f72902-b9db-45ff-84ad-499621f24d62" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="955506933">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.52" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="14" />
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="14" />
+          <entry key="JSON" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1869" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1869" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/Manager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="61" column="8" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+              <folding>
+                <marker date="1539953602134" expanded="false" signature="6:149" ph="..." />
+                <marker date="1539953602134" expanded="true" signature="187:1734" ph="{...}" />
+                <marker date="1539953602134" expanded="true" signature="438:475" ph="{...}" />
+                <marker date="1539953602134" expanded="true" signature="536:797" ph="{...}" />
+                <marker date="1539953602134" expanded="true" signature="572:656" ph="{...}" />
+                <marker date="1539953602134" expanded="true" signature="844:1248" ph="{...}" />
+                <marker date="1539953602134" expanded="true" signature="916:1057" ph="{...}" />
+                <marker date="1539953602134" expanded="true" signature="1070:1242" ph="{...}" />
+                <marker date="1539953602134" expanded="true" signature="1281:1411" ph="{...}" />
+                <marker date="1539953602134" expanded="true" signature="1454:1499" ph="{...}" />
+                <marker date="1539953602134" expanded="true" signature="1536:1732" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/PointCollector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <marker date="1539892829762" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539892829762" expanded="true" signature="124:996" ph="{...}" />
+                <marker date="1539892829762" expanded="true" signature="284:357" ph="{...}" />
+                <marker date="1539892829762" expanded="true" signature="294:354" ph="/* particle_system.Clear(); ... */" />
+                <marker date="1539892829762" expanded="true" signature="401:559" ph="{...}" />
+                <marker date="1539892829762" expanded="true" signature="458:553" ph="{...}" />
+                <marker date="1539892829762" expanded="true" signature="592:994" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/Canvas.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+              <folding>
+                <marker date="1539892926095" expanded="false" signature="6:100" ph="..." />
+                <marker date="1539892926095" expanded="true" signature="138:544" ph="{...}" />
+                <marker date="1539892926095" expanded="true" signature="251:436" ph="{...}" />
+                <marker date="1539892926095" expanded="true" signature="280:360" ph="{...}" />
+                <marker date="1539892926095" expanded="true" signature="491:542" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/Hero.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="65" column="4" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+              <folding>
+                <marker date="1539892908808" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539892908808" expanded="true" signature="114:2143" ph="{...}" />
+                <marker date="1539892908808" expanded="true" signature="447:509" ph="/* static Hero instance; ... */" />
+                <marker date="1539892908808" expanded="true" signature="528:1013" ph="{...}" />
+                <marker date="1539892908808" expanded="true" signature="538:842" ph="/* if(instance != null) ... */" />
+                <marker date="1539892908808" expanded="true" signature="1068:1999" ph="{...}" />
+                <marker date="1539892908808" expanded="true" signature="1491:1860" ph="{...}" />
+                <marker date="1539892908808" expanded="true" signature="1731:1850" ph="{...}" />
+                <marker date="1539892908808" expanded="true" signature="2034:2064" ph="{...}" />
+                <marker date="1539892908808" expanded="true" signature="2098:2141" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/Portal.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+              <folding>
+                <marker date="1539886168220" expanded="false" signature="6:113" ph="..." />
+                <marker date="1539886168220" expanded="true" signature="151:1033" ph="{...}" />
+                <marker date="1539886168220" expanded="true" signature="308:464" ph="{...}" />
+                <marker date="1539886168220" expanded="true" signature="508:628" ph="{...}" />
+                <marker date="1539886168220" expanded="true" signature="564:622" ph="{...}" />
+                <marker date="1539886168220" expanded="true" signature="687:895" ph="{...}" />
+                <marker date="1539886168220" expanded="true" signature="807:892" ph="{...}" />
+                <marker date="1539886168220" expanded="true" signature="921:1031" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Portal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Canvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F675ED20-B25E-4829-98DB-E77607068EC9/31/eb3489ed/Assertion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Hero.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8732DE5-BEEC-4A87-8F92-8152240B5DC1/75/28d5252c/RectOffset.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F675ED20-B25E-4829-98DB-E77607068EC9/01/ec3d9eae/SocketWire.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F675ED20-B25E-4829-98DB-E77607068EC9/c8/6be5dd35/ByteBufferAsyncProcessor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/PointCollector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/37F06E47-1AE9-442E-8B0C-B308E5C42E60/61/7f5672b2/Socket.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A0CEFE26-1478-4D45-962D-E2A6FC697B23/ac/c5bb2e56/HashSet`1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Code/BetweenLevels.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Portal.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/PointCollector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Hero.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Canvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Manager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="125" />
+    <option name="width" value="1440" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Code" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="do_not_show_unity_auto_save_notification" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="8120">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="8120" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97f72902-b9db-45ff-84ad-499621f24d62" name="Default Changelist" comment="" />
+      <created>1539809033135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539809033135</updated>
+      <workItem from="1539809061377" duration="270000" />
+      <workItem from="1539809599431" duration="435000" />
+      <workItem from="1539881691028" duration="9126000" />
+      <workItem from="1539952423168" duration="1286000" />
+      <workItem from="1540056344142" duration="355000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11472000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19127516" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932885" weight="0.26666668" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50067115" side_tool="true" weight="0.4" />
+      <window_info anchor="bottom" id="Unity" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1885906" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49932885" visible="true" weight="0.26666668" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50067115" side_tool="true" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="setValue">
+      <expression>
+        <expression-string>false</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>SceneManager.sceneCountInBuildSettings &lt;= currentLevel</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Manager.getInstance()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Manager.getInstance().DestroyBetweenLevels()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Manager</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>manager</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>BetweenLevelsCanvas.SetActive(false)</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Manager.getInstance().ShowNextLevelMenu()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>GetComponent</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>GetComponent&lt;Canvas&gt;()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Code/BetweenLevels.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A0CEFE26-1478-4D45-962D-E2A6FC697B23/ac/c5bb2e56/HashSet`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="96" column="8" selection-start-line="96" selection-start-column="8" selection-end-line="96" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F675ED20-B25E-4829-98DB-E77607068EC9/31/eb3489ed/Assertion.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F675ED20-B25E-4829-98DB-E77607068EC9/01/ec3d9eae/SocketWire.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="187" column="10" selection-start-line="187" selection-start-column="10" selection-end-line="187" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/37F06E47-1AE9-442E-8B0C-B308E5C42E60/61/7f5672b2/Socket.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="1591" column="6" selection-start-line="1591" selection-start-column="6" selection-end-line="1591" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F675ED20-B25E-4829-98DB-E77607068EC9/c8/6be5dd35/ByteBufferAsyncProcessor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="142" column="10" selection-start-line="142" selection-start-column="10" selection-end-line="142" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Unity/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="174" selection-start-line="5" selection-start-column="108" selection-end-line="5" selection-end-column="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8732DE5-BEEC-4A87-8F92-8152240B5DC1/75/28d5252c/RectOffset.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="146" column="7" lean-forward="true" selection-start-line="146" selection-start-column="7" selection-end-line="146" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Manager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="61" column="8" lean-forward="true" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+          <folding>
+            <marker date="1539953602134" expanded="false" signature="6:149" ph="..." />
+            <marker date="1539953602134" expanded="true" signature="187:1734" ph="{...}" />
+            <marker date="1539953602134" expanded="true" signature="438:475" ph="{...}" />
+            <marker date="1539953602134" expanded="true" signature="536:797" ph="{...}" />
+            <marker date="1539953602134" expanded="true" signature="572:656" ph="{...}" />
+            <marker date="1539953602134" expanded="true" signature="844:1248" ph="{...}" />
+            <marker date="1539953602134" expanded="true" signature="916:1057" ph="{...}" />
+            <marker date="1539953602134" expanded="true" signature="1070:1242" ph="{...}" />
+            <marker date="1539953602134" expanded="true" signature="1281:1411" ph="{...}" />
+            <marker date="1539953602134" expanded="true" signature="1454:1499" ph="{...}" />
+            <marker date="1539953602134" expanded="true" signature="1536:1732" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/PointCollector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <marker date="1539892829762" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539892829762" expanded="true" signature="124:996" ph="{...}" />
+            <marker date="1539892829762" expanded="true" signature="284:357" ph="{...}" />
+            <marker date="1539892829762" expanded="true" signature="294:354" ph="/* particle_system.Clear(); ... */" />
+            <marker date="1539892829762" expanded="true" signature="401:559" ph="{...}" />
+            <marker date="1539892829762" expanded="true" signature="458:553" ph="{...}" />
+            <marker date="1539892829762" expanded="true" signature="592:994" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Canvas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <marker date="1539892926095" expanded="false" signature="6:100" ph="..." />
+            <marker date="1539892926095" expanded="true" signature="138:544" ph="{...}" />
+            <marker date="1539892926095" expanded="true" signature="251:436" ph="{...}" />
+            <marker date="1539892926095" expanded="true" signature="280:360" ph="{...}" />
+            <marker date="1539892926095" expanded="true" signature="491:542" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Hero.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="65" column="4" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+          <folding>
+            <marker date="1539892908808" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539892908808" expanded="true" signature="114:2143" ph="{...}" />
+            <marker date="1539892908808" expanded="true" signature="447:509" ph="/* static Hero instance; ... */" />
+            <marker date="1539892908808" expanded="true" signature="528:1013" ph="{...}" />
+            <marker date="1539892908808" expanded="true" signature="538:842" ph="/* if(instance != null) ... */" />
+            <marker date="1539892908808" expanded="true" signature="1068:1999" ph="{...}" />
+            <marker date="1539892908808" expanded="true" signature="1491:1860" ph="{...}" />
+            <marker date="1539892908808" expanded="true" signature="1731:1850" ph="{...}" />
+            <marker date="1539892908808" expanded="true" signature="2034:2064" ph="{...}" />
+            <marker date="1539892908808" expanded="true" signature="2098:2141" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/Portal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+          <folding>
+            <marker date="1539886168220" expanded="false" signature="6:113" ph="..." />
+            <marker date="1539886168220" expanded="true" signature="151:1033" ph="{...}" />
+            <marker date="1539886168220" expanded="true" signature="308:464" ph="{...}" />
+            <marker date="1539886168220" expanded="true" signature="508:628" ph="{...}" />
+            <marker date="1539886168220" expanded="true" signature="564:622" ph="{...}" />
+            <marker date="1539886168220" expanded="true" signature="687:895" ph="{...}" />
+            <marker date="1539886168220" expanded="true" signature="807:892" ph="{...}" />
+            <marker date="1539886168220" expanded="true" signature="921:1031" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
